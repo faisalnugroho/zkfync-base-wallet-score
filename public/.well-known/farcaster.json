@@ -1,0 +1,15 @@
+{
+  "accountAssociation": {
+    "header": "PENDING",
+    "payload": "PENDING",
+    "signature": "PENDING"
+  },
+  "frame": {
+    "version": "1",
+    "name": "zkSync Base Wallet Score",
+    "iconUrl": "https://zkfync-base-wallet-score.vercel.app/favicon.ico",
+    "homeUrl": "https://zkfync-base-wallet-score.vercel.app",
+    "splashImageUrl": "https://zkfync-base-wallet-score.vercel.app/placeholder.svg",
+    "splashBackgroundColor": "#000000"
+  }
+}
