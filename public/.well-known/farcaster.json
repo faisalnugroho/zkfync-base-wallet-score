@@ -1,8 +1,8 @@
 {
   "accountAssociation": {
-    "header": "PENDING",
-    "payload": "PENDING",
-    "signature": "PENDING"
+    "header": "eyJmaWQiOjI0OTIxMTUsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhCNWM1NjNEZDVEYTBkOTcxZDQxNzQxRmNFM2NjMjg3MzY4ZThlZDdmIn0",
+    "payload": "eyJkb21haW4iOiJ6a2Z5bmMtYmFzZS13YWxsZXQtc2NvcmUudmVyY2VsLmFwcCJ9",
+    "signature": "amkoGJpJ0uulRvUqmFNpcTSI/M01ut9wUaWJPUusr5Z9IhoNNmUHRx37ap7PGwj24eMoS8lbf/0Y/EyTJ/CKPhs="
   },
   "frame": {
     "version": "1",
